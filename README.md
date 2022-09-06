@@ -3,18 +3,24 @@
 ![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/look.png?raw=true)
 
 
-Dash-to-Dock
+**Dash-to-Dock** <br />
 https://github.com/micheleg/dash-to-dock
-
-Ulauncher
+<br />
+<br />
+**Ulauncher**<br />
 https://github.com/Ulauncher/Ulauncher
-
-Pop_shell
+<br />
+<br />
+**Pop_shell**<br />
 https://github.com/pop-os/shell
 Included .css adds border thickness and round borders in active window indicator
-
-Icons
+<br />
+<br />
+**Icons**<br />
 https://github.com/cbrnix/Newaita-reborn
-
-Font
+<br />
+<br />
+**Font**<br />
 https://github.com/intel/clear-sans
+<br />
+<br />
