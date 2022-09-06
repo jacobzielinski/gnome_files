@@ -1,6 +1,6 @@
 # My configuration for Gnome 42
 
-![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/look.png?raw=true)
+![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/lookNew.png?raw=true)
 
 
 **Dash-to-Dock** <br />
