@@ -34,4 +34,7 @@ https://github.com/intel/clear-sans
 <br />
 ## catppuccin ##
 ![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/catppuccin.png?raw=true)
-
+<br />
+<br />
+**GTK3/4 themes**
+https://github.com/catppuccin/gtk
