@@ -7,6 +7,10 @@
 https://github.com/micheleg/dash-to-dock
 <br />
 <br />
+**Black Box Terminal** <br />
+https://flathub.org/apps/details/com.raggesilver.BlackBox
+<br />
+<br />
 **Ulauncher**<br />
 https://github.com/Ulauncher/Ulauncher
 <br />
