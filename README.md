@@ -1,6 +1,7 @@
 # My configuration for Gnome 42
 
 ![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/look.png?raw=true)
+<img src="https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/look.png?raw=true" width=50% height=50% />
 
 
 Dash-to-Dock
