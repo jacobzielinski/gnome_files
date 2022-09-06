@@ -31,3 +31,7 @@ https://github.com/cbrnix/Newaita-reborn
 https://github.com/intel/clear-sans
 <br />
 <br />
+<br />
+## catppuccin ##
+![alt text](https://github.com/jacobzielinski/gnome_files/blob/main/screenshot/catppuccin.png?raw=true)
+
