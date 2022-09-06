@@ -11,6 +11,7 @@ https://github.com/Ulauncher/Ulauncher
 
 Pop_shell
 https://github.com/pop-os/shell
+Included .css adds border thickness and round borders in active window indicator
 
 Icons
 https://github.com/cbrnix/Newaita-reborn
