@@ -12,7 +12,7 @@ https://github.com/Ulauncher/Ulauncher
 <br />
 <br />
 **Pop_shell**<br />
-https://github.com/pop-os/shell
+https://github.com/pop-os/shell<br />
 Included .css adds border thickness and round borders in active window indicator
 <br />
 <br />
