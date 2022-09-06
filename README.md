@@ -15,3 +15,5 @@ https://github.com/pop-os/shell
 Icons
 https://github.com/cbrnix/Newaita-reborn
 
+Font
+https://github.com/intel/clear-sans
