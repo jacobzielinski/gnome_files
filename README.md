@@ -9,4 +9,6 @@ https://github.com/Ulauncher/Ulauncher
 Pop_shell
 https://github.com/pop-os/shell
 
+Icons
+https://github.com/cbrnix/Newaita-reborn
 
