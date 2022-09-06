@@ -8,7 +8,10 @@ https://github.com/micheleg/dash-to-dock
 <br />
 <br />
 **Black Box Terminal** <br />
-https://flathub.org/apps/details/com.raggesilver.BlackBox
+https://flathub.org/apps/details/com.raggesilver.BlackBox<br />
+Oh my ZSH! -  https://ohmyz.sh/<br />
+Power Level 10k - shell addon https://github.com/romkatv/powerlevel10k <br />
+EXA (modern ls) shell addon https://the.exa.website/
 <br />
 <br />
 **Ulauncher**<br />
