@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Example Menu",
+    "icon": "fedora-logo-icon",
+    "shortcut": "<Control>4",
+    "centered": false,
+    "id": 0,
+    "children": [
+      {
+        "name": "Running Apps",
+        "icon": "flypie-menu-running-apps-symbolic-#65a",
+        "type": "RunningApps",
+        "data": {
+          "activeWorkspaceOnly": false,
+          "appGrouping": true,
+          "hoverPeeking": true,
+          "nameRegex": ""
+        },
+        "angle": -1
+      },
+      {
+        "name": "Favorites",
+        "icon": "flypie-menu-favorites-symbolic-#da3",
+        "type": "Favorites",
+        "data": {},
+        "angle": -1
+      },
+      {
+        "name": "Terminal",
+        "icon": "flypie-action-command-symbolic-#444",
+        "type": "Command",
+        "data": {
+          "command": "flatpak run com.raggesilver.BlackBox"
+        },
+        "angle": -1
+      },
+      {
+        "name": "Bookmarks",
+        "icon": "flypie-menu-bookmarks-symbolic-#7a3",
+        "type": "Bookmarks",
+        "angle": -1
+      },
+      {
+        "name": "Launch Application",
+        "icon": "brave-browser",
+        "type": "Command",
+        "data": {
+          "command": "brave-browser"
+        },
+        "angle": -1
+      },
+      {
+        "name": "Launch Application",
+        "icon": "folder",
+        "type": "Command",
+        "data": {
+          "command": "nautilus"
+        },
+        "angle": -1
+      },
+      {
+        "name": "System",
+        "icon": "flypie-menu-system-symbolic-#69b",
+        "type": "System",
+        "angle": -1
+      }
+    ],
+    "type": "CustomMenu",
+    "data": {},
+    "touchButton": false,
+    "superRMB": false
+  }
+]
