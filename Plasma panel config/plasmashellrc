@@ -1,0 +1,156 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZYAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAnAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+DP-4 HDMI-0 Height 1920x1080=487
+DP-4 HDMI-0 Width 1920x1080=762
+
+[FileDialogSize]
+DP-4 HDMI-0 Height 1920x1080=601
+DP-4 HDMI-0 Width 1920x1080=820
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=0010_paper-city-minimal-art.jpg,file:$HOME/Pictures/wallpaperflare.com_wallpaper(1).jpg,file:$HOME/Pictures/wallpaperflare.com_wallpaper.png,file:$HOME/Pictures/wallpaperflare.com_wallpaper.jpg,file:$HOME/Pictures/wallpaperflare.com_wallpaper new.jpg,file:$HOME/Pictures/jelly2.jpeg,file:$HOME/Pictures/jelly1.jpeg,file:$HOME/Pictures/jammy-jellyfish-wallpaper.jpg,file:$HOME/Pictures/index.jpg,file:$HOME/Pictures/Focal-Fossa-wallpaper.jpg,file:$HOME/Pictures/flatppuccin_4k_macchiato.png,file:$HOME/Pictures/dark-cat-rosewater.png,file:$HOME/Pictures/d78b1219f9991c69a7619d362548cb79f4d29e02_hq2.jpg,file:$HOME/Pictures/cropped-3840-2160-112832.jpg,file:$HOME/Pictures/20389456.jpg,file:$HOME/Pictures/0010_paper-city-minimal-art.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+DP-4 HDMI-0 Height 2560x1440=463
+DP-4 HDMI-0 Width 2560x1440=410
+
+[PlasmaViews][Panel 105][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 105][Horizontal2560]
+thickness=44
+
+[PlasmaViews][Panel 129][Defaults]
+maxLength=1366
+minLength=1366
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 129][Horizontal2560]
+maxLength=1366
+minLength=1366
+thickness=32
+
+[PlasmaViews][Panel 152][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 152][Horizontal2560]
+thickness=44
+
+[PlasmaViews][Panel 176][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 176][Horizontal2560]
+thickness=44
+
+[PlasmaViews][Panel 200][Defaults]
+maxLength=1366
+minLength=1366
+offset=0
+thickness=42
+
+[PlasmaViews][Panel 200][Horizontal2560]
+maxLength=1366
+minLength=1366
+thickness=42
+
+[PlasmaViews][Panel 222]
+floating=1
+panelOpacity=0
+
+[PlasmaViews][Panel 222][Defaults]
+maxLength=1440
+minLength=1440
+offset=0
+thickness=56
+
+[PlasmaViews][Panel 222][Horizontal2560]
+maxLength=2560
+minLength=2560
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 222][Vertical1440]
+maxLength=1440
+minLength=1440
+offset=0
+thickness=56
+
+[PlasmaViews][Panel 247]
+alignment=132
+floating=0
+
+[PlasmaViews][Panel 247][Defaults]
+maxLength=1440
+minLength=468
+thickness=48
+
+[PlasmaViews][Panel 247][Horizontal2560]
+maxLength=2560
+minLength=2540
+thickness=44
+
+[PlasmaViews][Panel 247][Vertical1440]
+maxLength=1440
+minLength=468
+thickness=48
+
+[PlasmaViews][Panel 29][Defaults]
+maxLength=1920
+minLength=1920
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 29][Horizontal2560]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 3]
+floating=1
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 3][Horizontal2560]
+thickness=44
+
+[PlasmaViews][Panel 52][Defaults]
+maxLength=2556
+minLength=2545
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 52][Horizontal2560]
+maxLength=2556
+minLength=2545
+thickness=32
+
+[PlasmaViews][Panel 75]
+alignment=132
+
+[PlasmaViews][Panel 75][Defaults]
+maxLength=1692
+minLength=1692
+offset=0
+thickness=72
+
+[PlasmaViews][Panel 75][Horizontal2560]
+maxLength=1692
+minLength=1692
+thickness=72
+
+[ScreenConnectors]
+0=
+1=HDMI-0
+2=HDMI-A-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
